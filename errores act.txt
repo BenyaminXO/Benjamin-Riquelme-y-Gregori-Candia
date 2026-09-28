@@ -1,0 +1,21 @@
+1.- int en el método getNombre():
+cambiar "int" por "String"
+
+
+2.- Nombre de inicializa como "Nombre" pero se usa como "nombre":
+usar en todo el código "nombre" sin mayuscula, ya que no es una clase
+
+
+3.- En el tercer método faltó el "This.edad":
+cambiar el primer "edad" por "This.edad"
+
+
+4.- Nombre de la clase sin mayuscula:
+colocar el nombre de la clase con mayuscula("Mascota")
+
+
+5.- El constructor usa el nombre de la clase con mayuscula cuando es con minuscula:
+Igualar ambos nombres
+
+6.- En el constructor se puso void:
+eliminar eso ya qu impide que podamos usar sus atributos
